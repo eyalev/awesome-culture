@@ -1,10 +1,13 @@
 
 # awesome-culture
-Curated list of content related to company culture
+Curated list of content related to *company culture*
 
 - [Companies](#companies)
   - [Netflix](#netflix)
   - [Zappos](#zappos)
+  - [Buffer](#buffer)
+  - [Airbnb](#airbnb)
+  - [Slack](#slack)
 
 # Companies
 

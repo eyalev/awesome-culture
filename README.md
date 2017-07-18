@@ -8,6 +8,7 @@ Curated list of content related to *company culture*
   - [Buffer](#buffer)
   - [Airbnb](#airbnb)
   - [Slack](#slack)
+  - [Amazon](#amazon)
 
 # Companies
 
@@ -41,6 +42,10 @@ Related posts:
 ## Slack
 
 * https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d
+
+## Amazon
+
+* https://www.amazon.jobs/principles
 
 
 

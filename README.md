@@ -14,7 +14,8 @@ Curated list of content related to *company culture*
 
 ## Netflix
 
-* https://jobs.netflix.com/culture/#introduction
+* [Netflix page](pages/netflix.md)
+* https://jobs.netflix.com/culture
 * https://docs.google.com/presentation/d/1vf9ZkiXxbDbapgIwtTmqqdQZUC0Tj_rYBau-yd5LLqA/edit?ts=59479ca4#slide=id.p55
 
 Related posts:
